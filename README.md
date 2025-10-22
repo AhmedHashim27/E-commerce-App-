@@ -3,7 +3,6 @@
    GoCart</h1>
 
 </div>
-
 ---
 
 ## 📖 Table of Contents
